@@ -1,10 +1,15 @@
-I work on developing novel machine learning algorithms for providing users with their desired search and recommendation results. These search and recommendation results better satisfy users' information need and personal preference in terms of several criteria such as diversity. To provide such search and recommendation results, I build upon several state-of-the-art machine learning techniques including generative adversarial networks, doubly robust estimators, learning to optimize, etc.
+Xiaojie Wang, Rui Zhang, Yu Sun, Jianzhong Qi. Adversarial Distillation for Learning with Privileged Provisions. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019.
 
+Xiaojie Wang, Rui Zhang, Yu Sun, Jianzhong Qi. Doubly Robust Joint Learning for Recommendation on Data Missing Not at Random. The 36th International Conference on Machine Learning, 2019.
 
-<a href="https://twitter.com/xiaojiew1/">
-  <i class="fab fa-twitter"></i>
-</a>
+Xiaojie Wang, Rui Zhang, Yu Sun, Jianzhong Qi. KDGAN: Knowledge Distillation with Generative Adversarial Networks. The 32nd Conference on Neural Information Processing Systems, 2018.
 
-<a href="https://www.facebook.com/xiaojie.wang.58173">
-  <i class="fab fa-facebook-f"></i>
-</a>
+Xiaojie Wang, Jianzhong Qi, Ramamohanarao Kotagiri, Yu Sun, Bo Li, Rui Zhang. Joint Optimization Approach for Personalized Recommendation Diversification. The 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining, 2018.
+
+Xiaojie Wang, Ji-Rong Wen, Zhicheng Dou, Tetsuya Sakai, Rui Zhang. Search Result Diversity Evaluation based on Intent Hierarchies. IEEE Transactions on Knowledge and Data Engineering, 2018.
+
+Xiaojie Wang, Zhicheng Dou, Tetsuya Sakai, Ji-Rong Wen. Evaluating Search Result Diversity using Intent Hierarchies. The 39th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2016.
+
+Sha Hu, Zhicheng Dou, Xiaojie Wang, Tetsuya Sakai, Ji-Rong Wen. Search Result Diversification based on Query Facets. Journal of Computer Science and Technology, 2015.
+
+Sha Hu, Zhicheng Dou, Xiaojie Wang, Tetsuya Sakai, Ji-Rong Wen. Search Result Diversification Based on Hierarchical Intents. The 24th ACM International Conference on Information and Knowledge Management, 2015.
